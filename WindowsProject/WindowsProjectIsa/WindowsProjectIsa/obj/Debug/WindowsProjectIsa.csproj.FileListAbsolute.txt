@@ -1,0 +1,16 @@
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\bin\Debug\WindowsProjectIsa.exe.config
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\bin\Debug\WindowsProjectIsa.exe
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\bin\Debug\WindowsProjectIsa.pdb
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.csproj.AssemblyReference.cache
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.csproj.SuggestedBindingRedirects.cache
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.frmKortingRunner.resources
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.Properties.Resources.resources
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.csproj.GenerateResource.cache
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.csproj.CoreCompileInputs.cache
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.exe
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.pdb
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\bin\Debug\WindowsProjectIsa.exe.manifest
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\bin\Debug\WindowsProjectIsa.application
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.TrustInfo.xml
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.exe.manifest
+D:\!SCHOOL\Windows\WindowsProjectIsa\WindowsProjectIsa\obj\Debug\WindowsProjectIsa.application
